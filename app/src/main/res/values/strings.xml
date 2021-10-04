@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndersenHW3</string>
+    <string name="image_url">Image URL</string>
+    <string name="get">Get</string>
+    <string name="picasso">Picasso</string>
+    <string name="without_libraries">Without libraries</string>
+</resources>

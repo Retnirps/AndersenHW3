@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/loading_animation.xml" value="0.2241025641025641" />
+        <entry key="app/src/main/res/drawable/switzerland_stroke.xml" value="0.2241025641025641" />
+        <entry key="app/src/main/res/layout-land/poland_framelayout.xml" value="0.13020833333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_picasso_loader.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/activity_without_libraries_image_loader.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/austria_constraintlayout.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/austria_framelayout.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/austria_linearlayout.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/colombia_constraintlayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/colombia_framelayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/colombia_linearlayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/columbia_framelayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/denmark_constraintlayout.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/denmark_framelayout.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/denmark_linearlayout.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/italy_constraintlayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/italy_framelayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/italy_linearlayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/madagascar_constraintlayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/madagascar_framelayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/madagascar_linearlayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/poland_constraintlayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/poland_framelayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/poland_linearlayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/switzerland_constraintlayout.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/switzerland_framelayout.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/switzerland_linearlayout.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/switzerland_stroke.xml" value="0.2082051282051282" />
+        <entry key="app/src/main/res/layout/thailand_constraintlayout.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/thailand_framelayout.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/thailand_linearlayout.xml" value="0.21145833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
